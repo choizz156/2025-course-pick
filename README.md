@@ -30,10 +30,3 @@
 당신의 러닝 라이프를 더욱 풍요롭게 만들어 줄 런세권과 함께 달려보세요.
 오늘은 어디를 달려볼까요? 지금 바로 다운로드하세요!
 
-## 팀원
-
-
-|<img src="https://avatars.githubusercontent.com/u/161921046?v=4" width="125" />|<img src="https://avatars.githubusercontent.com/u/192606356?v=4" width="125" />|<img src="https://avatars.githubusercontent.com/u/108331578?v=4" width="125" />|<img src="https://avatars.githubusercontent.com/u/176254419?v=4" width="125" />|<img src="https://avatars.githubusercontent.com/u/46932235?v=4" width="125" />|<img src="https://avatars.githubusercontent.com/u/104622150?v=4" width="125" />|<img src="https://avatars.githubusercontent.com/u/111430281?v=4" width="125" />|
-|:---------:|:---------:|:---------:|:----------:|:---------:|:---------:|:---------:|
-|[디랙<br>(허찬)](https://github.com/doabletuple)|[모찌<br>(황채원)](https://github.com/wondroid-world)|[지오<br>(김준서)](https://github.com/giovannijunseokim)|[토바에<br>(박지원)](https://github.com/tobae-time)|[돔푸<br>(이창근)](https://github.com/dompoo)|[율무<br>(강기석)](https://github.com/kkiseug)|[짱구<br>(박준혁)](https://github.com/jhpark1227)|
-|Android|Android|Android|Android|Backend|Backend|Backend|
